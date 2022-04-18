@@ -1,0 +1,94 @@
+main{
+    width: 70%;
+    display: inline-block;
+}
+
+aside{
+    display: inline-block;
+    width: 21%;
+    vertical-align: top;
+    line-height: 2.4;
+    margin-left: 4%;
+
+}
+#f1{
+    vertical-align: bottom; 
+    line-height: 4.0px;
+    max-height: 300px;
+    max-width: 200px;
+    width: 50%;
+ margin-left: 7%;
+}
+#div1{
+    height: 200px;
+    width: 1250px;
+    background-color: rgb(102, 111, 235);
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+}
+#div3{
+    height: 30%;
+    width: 30%;
+    background-color: rgba(56, 212, 69, 0.906);
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#div2{
+    height: 200px;
+    width: 1250px;
+    background-color: rgb(201, 216, 160);
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#div4{
+    height: 200px;
+    width: 1250px;
+    background-color: rgb(190, 90, 182);
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#sample-para{
+    font-size: 20px;
+    color: rgb(62, 62, 207);
+}
+.widget{
+    border-top: 4px solid black;
+
+}
+button[type="submit"]{
+    background-color: black;
+      font-size: 1.0rem;
+      color: white;
+      padding: 10px;
+}
+
+.widget input{
+    display: block;
+    background-color:#F7F7F7 ;
+    margin-bottom: 15px;
+    padding: 4px;
+    color: black;
+    font-size: 1.2rem;
+}
+#div5{
+    height: 250px;
+    width: 800px;
+    min-width: 250px;
+    max-width: 850px;
+    background-color: aqua;
+    border: 2px solid black;
+    overflow: auto;
+}
+#f1{
+    vertical-align: top; 
+    line-height: 5.0px;
+    max-height: 300px;
+    max-width: 200px;
+    width: 50%;
+ margin-left: 7%;
+}
